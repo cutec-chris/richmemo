@@ -1,0 +1,10 @@
+/.project
+*.o
+*.ppu
+*.compiled
+*.rst
+*.bak
+*.dbg
+*.exe
+lib*/
+.svn/*
